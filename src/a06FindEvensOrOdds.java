@@ -6,7 +6,6 @@ public class a06FindEvensOrOdds {
 
 String change = "";
 
-String fuck;
 
     }
 }
