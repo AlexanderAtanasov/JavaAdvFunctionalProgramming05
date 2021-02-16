@@ -5,7 +5,10 @@ public class a06FindEvensOrOdds {
         Scanner scanner = new Scanner(System.in);
 
 String change = "";
+<<<<<<<<< Temporary merge branch 1
+
+=========
 String next;
-String annoying;
+>>>>>>>>> Temporary merge branch 2
     }
 }
