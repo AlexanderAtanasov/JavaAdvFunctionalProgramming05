@@ -1,7 +1,7 @@
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class a2SumNumbers {
+public class a02SumNumbers {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
