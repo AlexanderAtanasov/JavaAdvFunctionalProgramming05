@@ -9,5 +9,6 @@ String change = "";
 String fuck;
 String next;
 String works;
+String cmon;
     }
 }
